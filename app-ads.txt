@@ -1734,3 +1734,4 @@ video.unrulymedia.com,389957698,RESELLER
 video.unrulymedia.com,739131256,RESELLER
 videoheroes.tv,212428,RESELLER,064bc410192443d8
 xandr.com,15769,RESELLER,f5ab79cb980f11d1
+google.com, pub-8568140739550172, DIRECT, f08c47fec0942fa0
